@@ -1,4 +1,5 @@
 **Project Kulal Matrimony**
+
 This project is designed to add data as a user and retrieve matching data using several search options. 
 The admin privileges include managing, editing, and searching user data, with various search options to find matching profiles on the matrimony site.
 
@@ -15,4 +16,3 @@ Features:
   - Keyword Search: Search based on specific fields or keywords.
   - Astrology Search: Search based on Nakshatra and Raashi.
   - Age Range Search: Search users based on an age range (from - to).
-  - 
