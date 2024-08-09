@@ -132,7 +132,7 @@ def astrology_value_match(data_set):
             
         selected_nakshatra = available_nakshatras.get(input_naks_key)
 
-        # data_set = ask_user_input()
+        # data_set = ask_user_input
         found = False
         for data_key in data_set:
             if not data_key.get("user_active", False):
