@@ -34,5 +34,3 @@ def get_matrimony_admin():
 get_matrimony_admin()
 compat_class = compatibility()
 compat_class.find_compability_score()
-
-#give the id to the profile
